@@ -7,3 +7,6 @@ cpp-demo/.idea/
 asc-demo/node_modules/
 asc-demo/.idea/
 .idea/
+j2v8_android/.gradle
+j2v8_android/.idea
+j2v8_android/app/build
